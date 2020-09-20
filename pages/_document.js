@@ -27,6 +27,11 @@ class MyDocument extends Document {
                     <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png" />
                     <link rel="icon" type="image/png" href="images/favicon/favicon-32x32.png" sizes="32x32" />
                     <link rel="icon" type="image/png" href="images/favicon/favicon-16x16.png" sizes="16x16" />
+                </Head>
+                <body>
+
+                    <Main />
+                    <NextScript />
 
                     <script src="js/jquery.js"></script>
                     <script src="js/appear.js"></script>
@@ -65,11 +70,6 @@ class MyDocument extends Document {
 
                     {/* <!-- thm custom script --> */}
                     <script src="js/custom.js"></script>
-                </Head>
-                <body>
-                    <Main />
-                    <NextScript />
-                    
                 </body>
             </Html>
         )

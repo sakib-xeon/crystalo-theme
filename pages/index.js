@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Slider1 from '../components/layout/components/slider/slider-1'
+import SliderWrapper from '../components/layout/components/slider/slider-wrapper'
 import Highlights from "../components/layout/components/home-section/home/highlights";
 import Layout from "../components/layout/layout"
 import About from '../components/layout/components/home-section/home/about';
@@ -13,19 +14,19 @@ import LatestBlog from '../components/layout/components/home-section/home/latest
 import BrandArea from '../components/layout/components/home-section/home/brand-area';
 
 export default function Home() {
-  return (
-    <div>
-      <Slider1/>
-      <Highlights/>
-      <About/>
-      <WorkingArea/>
-      <RecentProject/>
-      <WorkingProcess/>
-      <Slogan/>
-      <TestimonialArea/>
-      <AppointmentArea/>
-      <LatestBlog/>
-      <BrandArea/>
-    </div>
-  )
+    return (
+        <div>
+            <SliderWrapper slider={<Slider1 />} />
+            <Highlights />
+            <About />
+            <WorkingArea />
+            <RecentProject />
+            <WorkingProcess />
+            <Slogan />
+            <TestimonialArea />
+            <AppointmentArea />
+            <LatestBlog />
+            <BrandArea />
+        </div>
+    )
 }

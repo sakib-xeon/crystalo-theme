@@ -1,3 +1,5 @@
+import SliderWrapper from '../components/layout/components/slider/slider-wrapper'
+
 const { default: Header2 } = require("../components/layout/components/header/header-2");
 const { default: AboutTwo } = require("../components/layout/components/home-section/home-design-2/about-2");
 const { default: BlogAreaTwo } = require("../components/layout/components/home-section/home-design-2/blog-area-2");
@@ -18,7 +20,7 @@ const { default: TopHeaderTwo } = require("../components/layout/components/top-h
 function Home2 (){
     return(
         <div class="boxed_wrapper"> 
-            <SliderTow/>
+            <SliderWrapper slider={<SliderTow />} />
             <AboutTwo/>
             <WorkingTwo/>
             <Service/>

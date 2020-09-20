@@ -11,7 +11,7 @@ export default function SliderTow(){
                             <img alt="" className="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="images/slides/v2-1.jpg"/>
 
                             <div className="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['800','800','700','400']" data-whitespace="normal"
-                                data-hoffset="['15','15','15','15']" data-voffset="['-80','-95','-80','-90']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
+                                data-hoffset="['15','15','15','15']" data-voffset="['-80','-95','-80','-90']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames="[{'from':'y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;','mask':'x:0px;y:0px;s:inherit;e:inherit;','speed':1500,'to':'o:1;','delay':1000,'ease':'Power3.easeInOut'},{'delay':'wait','speed':1000,'to':'auto:auto;','mask':'x:0;y:0;s:inherit;e:inherit;','ease':'Power3.easeInOut'}]"
                                style={{zIndex:"7",whiteSpace:"nowrap"}}>
                                 <div className="slide-content left-slide">
                                     <div className="big-title">
@@ -20,14 +20,14 @@ export default function SliderTow(){
                                 </div>
                             </div>
                             <div className="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['800','800','700','400']" data-whitespace="normal"
-                                data-hoffset="['15','15','15','15']" data-voffset="['25','0','-5','-20']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1500,"ease":"Power3.easeInOut"},
-                        {"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'style={{zIndex:"7",whiteSpace:"nowrap"}}>
+                                data-hoffset="['15','15','15','15']" data-voffset="['25','0','-5','-20']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames="[{'from':'y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;','mask':'x:0px;y:0px;s:inherit;e:inherit;','speed':1500,'to':'o:1;','delay':1500,'ease':'Power3.easeInOut'},
+                        {'delay':'wait','speed':1000,'to':'auto:auto;','mask':'x:0;y:0;s:inherit;e:inherit;','ease':'Power3.easeInOut'}]"style={{zIndex:"7",whiteSpace:"nowrap"}}>
                                 <div className="slide-content left-slide">
                                     <div className="text">Creating lasting impressions through interior design.</div>
                                 </div>
                             </div>
                             <div className="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['800','800','700','400']" data-whitespace="normal"
-                                data-hoffset="['15','15','15','15']" data-voffset="['105','90','75','65']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1500,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
+                                data-hoffset="['15','15','15','15']" data-voffset="['105','90','75','65']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames="[{'from':'y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;','mask':'x:0px;y:0px;s:inherit;e:inherit;','speed':1500,'to':'o:1;','delay':1500,'ease':'Power3.easeInOut'},{'delay':'wait','speed':1000,'to':'auto:auto;','mask':'x:0;y:0;s:inherit;e:inherit;','ease':'Power3.easeInOut'}]"
                                style={{zIndex:"7",whiteSpace:"nowrap"}}>
                                 <div className="slide-content left-slide">
                                     <div className="btn-box">
@@ -50,7 +50,7 @@ export default function SliderTow(){
                             <img alt="" className="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="images/slides/v2-2.jpg"/>
 
                             <div className="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['800','800','700','400']" data-whitespace="normal"
-                                data-hoffset="['15','15','15','15']" data-voffset="['-80','-95','-80','-90']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
+                                data-hoffset="['15','15','15','15']" data-voffset="['-80','-95','-80','-90']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames="[{'from':'y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;','mask':'x:0px;y:0px;s:inherit;e:inherit;','speed':1500,'to':'o:1;','delay':1000,'ease':'Power3.easeInOut'},{'delay':'wait','speed':1000,'to':'auto:auto;','mask':'x:0;y:0;s:inherit;e:inherit;','ease':'Power3.easeInOut'}]"
                                style={{zIndex:"7",whiteSpace:"nowrap"}}>
                                 <div className="slide-content left-slide">
                                     <div className="big-title">
@@ -59,14 +59,14 @@ export default function SliderTow(){
                                 </div>
                             </div>
                             <div className="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['800','800','700','400']" data-whitespace="normal"
-                                data-hoffset="['15','15','15','15']" data-voffset="['25','0','-5','-20']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1500,"ease":"Power3.easeInOut"},
-                        {"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'style={{zIndex:"7",whiteSpace:"nowrap"}}>
+                                data-hoffset="['15','15','15','15']" data-voffset="['25','0','-5','-20']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames="[{'from':'y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;','mask':'x:0px;y:0px;s:inherit;e:inherit;','speed':1500,'to':'o:1;','delay':1500,'ease':'Power3.easeInOut'},
+                        {'delay':'wait','speed':1000,'to':'auto:auto;','mask':'x:0;y:0;s:inherit;e:inherit;','ease':'Power3.easeInOut'}]"style={{zIndex:"7",whiteSpace:"nowrap"}}>
                                 <div className="slide-content left-slide">
                                     <div className="text">Creating lasting impressions through interior design.</div>
                                 </div>
                             </div>
                             <div className="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['800','800','700','400']" data-whitespace="normal"
-                                data-hoffset="['15','15','15','15']" data-voffset="['105','90','75','65']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1500,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
+                                data-hoffset="['15','15','15','15']" data-voffset="['105','90','75','65']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames="[{'from':'y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;','mask':'x:0px;y:0px;s:inherit;e:inherit;','speed':1500,'to':'o:1;','delay':1500,'ease':'Power3.easeInOut'},{'delay':'wait','speed':1000,'to':'auto:auto;','mask':'x:0;y:0;s:inherit;e:inherit;','ease':'Power3.easeInOut'}]"
                                style={{zIndex:"7",whiteSpace:"nowrap"}}>
                                 <div className="slide-content left-slide">
                                     <div className="btn-box">
@@ -87,7 +87,7 @@ export default function SliderTow(){
                             <img alt="" className="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="images/slides/v2-3.jpg"/>
 
                             <div className="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['800','800','700','400']" data-whitespace="normal"
-                                data-hoffset="['15','15','15','15']" data-voffset="['-80','-95','-80','-90']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
+                                data-hoffset="['15','15','15','15']" data-voffset="['-80','-95','-80','-90']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames="[{'from':'y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;','mask':'x:0px;y:0px;s:inherit;e:inherit;','speed':1500,'to':'o:1;','delay':1000,'ease':'Power3.easeInOut'},{'delay':'wait','speed':1000,'to':'auto:auto;','mask':'x:0;y:0;s:inherit;e:inherit;','ease':'Power3.easeInOut'}]"
                                 style={{zIndex:"7",whiteSpace:"nowrap"}}>
                                 <div className="slide-content left-slide">
                                     <div className="big-title">
@@ -96,14 +96,14 @@ export default function SliderTow(){
                                 </div>
                             </div>
                             <div className="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['800','800','700','400']" data-whitespace="normal"
-                                data-hoffset="['15','15','15','15']" data-voffset="['25','0','-5','-20']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1500,"ease":"Power3.easeInOut"},
-                        {"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'style={{zIndex:"7",whiteSpace:"nowrap"}}>
+                                data-hoffset="['15','15','15','15']" data-voffset="['25','0','-5','-20']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames="[{'from':'y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;','mask':'x:0px;y:0px;s:inherit;e:inherit;','speed':1500,'to':'o:1;','delay':1500,'ease':'Power3.easeInOut'},
+                        {'delay':'wait','speed':1000,'to':'auto:auto;','mask':'x:0;y:0;s:inherit;e:inherit;','ease':'Power3.easeInOut'}]"style={{zIndex:"7",whiteSpace:"nowrap"}}>
                                 <div className="slide-content left-slide">
                                     <div className="text">Creating lasting impressions through interior design.</div>
                                 </div>
                             </div>
                             <div className="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['800','800','700','400']" data-whitespace="normal"
-                                data-hoffset="['15','15','15','15']" data-voffset="['105','90','75','65']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1500,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
+                                data-hoffset="['15','15','15','15']" data-voffset="['105','90','75','65']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames="[{'from':'y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;','mask':'x:0px;y:0px;s:inherit;e:inherit;','speed':1500,'to':'o:1;','delay':1500,'ease':'Power3.easeInOut'},{'delay':'wait','speed':1000,'to':'auto:auto;','mask':'x:0;y:0;s:inherit;e:inherit;','ease':'Power3.easeInOut'}]"
                                style={{zIndex:"7",whiteSpace:"nowrap"}}>
                                 <div className="slide-content left-slide">
                                     <div className="btn-box">
