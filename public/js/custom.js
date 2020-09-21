@@ -40,7 +40,7 @@ function overridejQueryData() {
     }
 }
 
-overridejQueryData();
+
 
     //====Main menu===
     function mainmenu() {
@@ -840,27 +840,6 @@ overridejQueryData();
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     //Hidden Sidebar
     if ($('.hidden-bar').length) {
         var hiddenBar = $('.hidden-bar');
@@ -902,13 +881,6 @@ overridejQueryData();
             }
         });
     }
-
-
-
-
-
-
-
 
     if ($('.paroller').length) {
         $('.paroller').paroller({
@@ -1046,7 +1018,7 @@ overridejQueryData();
             projectCarouselv3();
             testimonialCarouselV2();
             historyCarousel();
-
+            overridejQueryData();
 
 
 

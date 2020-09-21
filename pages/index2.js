@@ -19,7 +19,7 @@ const { default: TopHeaderTwo } = require("../components/layout/components/top-h
 
 function Home2 (){
     return(
-        <div class="boxed_wrapper"> 
+        <div className="boxed_wrapper"> 
             <SliderWrapper slider={<SliderTow />} />
             <AboutTwo/>
             <WorkingTwo/>

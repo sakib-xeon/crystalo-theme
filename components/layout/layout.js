@@ -8,15 +8,15 @@ import FooterBottomArea from "./components/footer-section/footer-2/footer-bottom
 import Footertwo from "./components/footer-section/footer-2/footer-two";
 function Layout({children}){
     return(
-        <div class="boxed_wrapper">
-             <div class="preloader"></div>
+        <div className="boxed_wrapper">
+             <div className="preloader"></div>
             <TopBar/>
             <Header/>
             {children}
             <Footertwo/>
             <FooterContact/>
             <FooterBottomArea/>
-            <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
+            <div className="scroll-to-top scroll-to-target" data-target="html"><span className="fa fa-angle-up"></span></div>
             
         </div>
     )

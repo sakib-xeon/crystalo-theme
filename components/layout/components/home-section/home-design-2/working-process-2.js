@@ -1,57 +1,57 @@
 export default function WorkingProcessTwo(){
     return(
-        <section class="working-process-style2-area" style={{backgroundImage:"url(images/parallax-background/working-process-bg-style3.jpg)"}}>
-            <div class="container">
-                <div class="sec-title">
+        <section className="working-process-style2-area" style={{backgroundImage:"url(images/parallax-background/working-process-bg-style3.jpg)"}}>
+            <div className="container">
+                <div className="sec-title">
                     <p>To Do good design</p>
-                    <div class="title">Our Working <span>process</span></div>
+                    <div className="title">Our Working <span>process</span></div>
                 </div>
-                <div class="row">
-                    <div class="col-xl-12 col-lg-12">
-                        <div class="working-process-carousel owl-carousel owl-theme">
+                <div className="row">
+                    <div className="col-xl-12 col-lg-12">
+                        <div className="working-process-carousel owl-carousel owl-theme">
                             {/* <!--Start Single Working Process--> */}
-                            <div class="single-working-process-style2">
-                                <div class="top-box clearfix">
-                                    <div class="count">
+                            <div className="single-working-process-style2">
+                                <div className="top-box clearfix">
+                                    <div className="count">
                                         <h1>01</h1>
                                     </div>
-                                    <div class="icon">
-                                        <span class="icon-productive"></span>
+                                    <div className="icon">
+                                        <span className="icon-productive"></span>
                                     </div>
                                 </div>
-                                <div class="inner">
+                                <div className="inner">
                                     <h3>Idea & Design</h3>
                                     <p>Dedignation and dislike men who are beguileds & demoralized by the charms pleasue certain circumstances.</p>
                                 </div>
                             </div>
                             {/* <!--End Single Working Process--> */}
                             {/* <!--Start Single Working Process--> */}
-                            <div class="single-working-process-style2">
-                                <div class="top-box clearfix">
-                                    <div class="count">
+                            <div className="single-working-process-style2">
+                                <div className="top-box clearfix">
+                                    <div className="count">
                                         <h1>02</h1>
                                     </div>
-                                    <div class="icon">
-                                        <span class="icon-document"></span>
+                                    <div className="icon">
+                                        <span className="icon-document"></span>
                                     </div>
                                 </div>
-                                <div class="inner">
+                                <div className="inner">
                                     <h3>Specification</h3>
                                     <p>Owing to the claims of duty or business will frequently occur that pleasures have to be repudiated and annoyances.</p>
                                 </div>
                             </div>
                             {/* <!--End Single Working Process--> */}
                             {/* <!--Start Single Working Process--> */}
-                            <div class="single-working-process-style2">
-                                <div class="top-box clearfix">
-                                    <div class="count">
+                            <div className="single-working-process-style2">
+                                <div className="top-box clearfix">
+                                    <div className="count">
                                         <h1>03</h1>
                                     </div>
-                                    <div class="icon">
-                                        <span class="icon-kitchen"></span>
+                                    <div className="icon">
+                                        <span className="icon-kitchen"></span>
                                     </div>
                                 </div>
-                                <div class="inner">
+                                <div className="inner">
                                     <h3>Execution</h3>
                                     <p>Same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish.</p>
                                 </div>
@@ -59,48 +59,48 @@ export default function WorkingProcessTwo(){
                             {/* <!--End Single Working Process--> */}
 
                             {/* <!--Start Single Working Process--> */}
-                            <div class="single-working-process-style2">
-                                <div class="top-box clearfix">
-                                    <div class="count">
+                            <div className="single-working-process-style2">
+                                <div className="top-box clearfix">
+                                    <div className="count">
                                         <h1>01</h1>
                                     </div>
-                                    <div class="icon">
-                                        <span class="icon-productive"></span>
+                                    <div className="icon">
+                                        <span className="icon-productive"></span>
                                     </div>
                                 </div>
-                                <div class="inner">
+                                <div className="inner">
                                     <h3>Idea & Design</h3>
                                     <p>Dedignation and dislike men who are beguileds & demoralized by the charms pleasue certain circumstances.</p>
                                 </div>
                             </div>
                             {/* <!--End Single Working Process--> */}
                             {/* <!--Start Single Working Process--> */}
-                            <div class="single-working-process-style2">
-                                <div class="top-box clearfix">
-                                    <div class="count">
+                            <div className="single-working-process-style2">
+                                <div className="top-box clearfix">
+                                    <div className="count">
                                         <h1>02</h1>
                                     </div>
-                                    <div class="icon">
-                                        <span class="icon-document"></span>
+                                    <div className="icon">
+                                        <span className="icon-document"></span>
                                     </div>
                                 </div>
-                                <div class="inner">
+                                <div className="inner">
                                     <h3>Specification</h3>
                                     <p>Owing to the claims of duty or business will frequently occur that pleasures have to be repudiated and annoyances.</p>
                                 </div>
                             </div>
                             {/* <!--End Single Working Process--> */}
                             {/* <!--Start Single Working Process--> */}
-                            <div class="single-working-process-style2">
-                                <div class="top-box clearfix">
-                                    <div class="count">
+                            <div className="single-working-process-style2">
+                                <div className="top-box clearfix">
+                                    <div className="count">
                                         <h1>03</h1>
                                     </div>
-                                    <div class="icon">
-                                        <span class="icon-kitchen"></span>
+                                    <div className="icon">
+                                        <span className="icon-kitchen"></span>
                                     </div>
                                 </div>
-                                <div class="inner">
+                                <div className="inner">
                                     <h3>Execution</h3>
                                     <p>Same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish.</p>
                                 </div>

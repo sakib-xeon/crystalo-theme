@@ -10,7 +10,6 @@ export default function ContactDetails(){
                 <div className="row">
                     <div className="col-xl-12">
                         <div className="contact-details-content">
-
                             <div className="row">
                                 <div className="col-xl-6 col-lg-6">
                                     <div className="content-info-box" style={{backgroundImage:"url(images/parallax-background/contact-info-box-bg.jpg)"}}>
@@ -91,7 +90,6 @@ export default function ContactDetails(){
                                     </div>
                                 </div>
                             </div>
-
                         </div>
                     </div>
                 </div>
